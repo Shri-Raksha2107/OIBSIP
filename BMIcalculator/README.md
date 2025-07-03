@@ -27,6 +27,7 @@ How it works
 -Handles invalid inputs and system selection errors.
 
 Outcome
+
 -A functional BMI calculator that is beginner-friendly. 
 -Useful for quick BMI checks from the terminal.
 -Reinforces Python basics like input(), conditionals, and simple math.
